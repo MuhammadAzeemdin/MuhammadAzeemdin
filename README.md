@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadAzeemdin
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on SQL projects
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently DevOps tools
+- 💞️ I’m looking to collaborate on DevOPs
 - 📫 Just leave a text
